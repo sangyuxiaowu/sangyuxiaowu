@@ -23,3 +23,6 @@ Hi, I'm phachon, a .net/phper/golang/python/js Developer 🚀 from China, curren
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/marin1993)](https://github.com/marin1993) 
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/marin1993)](https://github.com/marin1993) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/marin1993)](https://github.com/marin1993)
+
+
+![Marin1993's github stats](https://github-readme-stats.vercel.app/api?username=marin1993&show_icons=true&hide_border=true)
