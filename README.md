@@ -9,9 +9,11 @@ Hi, I'm phachon, a .net/phper/golang/python/js Developer 🚀 from China, curren
 - 📫 How to reach me: sang93@qq.com;
 
 **Languages and Tools:**  
+
+[![.Net](https://img.shields.io/badge/-.NET-512bd4?style=flat&logo=.net&link=https://github.com/marin1993)](https://github.com/marin1993) 
+[![PHP](https://img.shields.io/badge/Php-black?style=flat&logo=php&logoColor=white&link=https://github.com/marin1993)](https://github.com/marin1993) 
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/marin1993)](https://github.com/marin1993) 
 [![Go](https://img.shields.io/badge/Go-blue?style=flat&logo=go&logoColor=white&link=https://github.com/marin1993)](https://github.com/marin1993) 
-[![PHP](https://img.shields.io/badge/Php-black?style=flat&logo=php&logoColor=white&link=https://github.com/marin1993)](https://github.com/marin1993) 
 [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/marin1993)](https://github.com/marin1993) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/marin1993)](https://github.com/marin1993) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/marin1993)](https://github.com/marin1993) 
