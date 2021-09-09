@@ -4,7 +4,7 @@ Hi, I'm phachon, a .net/phper/golang/python/js Developer 🚀 from China, curren
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently working on 天识睿华;
+- 🔭 I’m currently working on 朝阳;
 - 🌱 I’m currently learning Go and .Net
 - 📫 How to reach me: sang93@qq.com;
 
