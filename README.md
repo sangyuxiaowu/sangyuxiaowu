@@ -31,7 +31,7 @@ Hi, I'm phachon, a .net/phper/golang/python/js Developer 🚀 from China, curren
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sangyuxiaowu/count.svg" />
+  <img src="https://profile-counter.glitch.me/marin1993/count.svg" />
   <br/>⭐️ Show some ❤️ by starring some of the repositories!
 </p>
 <p align="center">
