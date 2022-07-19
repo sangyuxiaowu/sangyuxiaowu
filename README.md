@@ -1,6 +1,6 @@
 ### Hey 👋, I'm [桑榆肖物!](https://github.com/sangyuxiaowu) 
 
-Hi, I'm phachon, a .net/phper/golang/python/js Developer 🚀 from China, currently, I'm a full-stack developer.
+Hi, I'm Sang, a .net/phper/golang/python/js Developer 🚀 from China, currently, I'm a full-stack developer.
 
 **Talking about Personal Stuffs:**
 
