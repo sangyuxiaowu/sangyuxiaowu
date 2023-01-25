@@ -27,11 +27,10 @@ Hi, I'm Sang, a .net/phper/golang/python/js Developer 🚀 from China, currently
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/phachon)](https://github.com/sangyuxiaowu)
 
 
-![SangYuXiaoWu's github stats](https://github-readme-stats.vercel.app/api?username=sangyuxiaowu&show_icons=true&hide_border=true)
+| <a href="https://github.com/sangyuxiaowu"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sangyuxiaowu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="sangyuxiaowu's github stats" /></a> | <a href="https://github.com/sangyuxiaowu"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangyuxiaowu&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/marin1993/count.svg" />
   <br/>⭐️ Show some ❤️ by starring some of the repositories!
 </p>
 <p align="center">
