@@ -5,7 +5,6 @@ Hi, I'm Sang, a .net/phper/golang/python/js Developer 🚀 from China, currently
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently working on 朝阳;
-- 🌱 I’m currently learning Go and .Net
 - 📫 How to reach me: sang93@qq.com;
 
 **Languages and Tools:**  
